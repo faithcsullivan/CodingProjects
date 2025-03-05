@@ -143,7 +143,7 @@ def recommend_similar_movies(movie_title):
     return recommendations
 #test
 # Streamlit UI
-st.title("❤️‍🔥 If you liked _____, try these!🦩")
+st.title("❤️‍🔥 If you liked _____, try these!🦊")
 
 user_input = st.text_input("Type a movie name to get recommendations:")
 
